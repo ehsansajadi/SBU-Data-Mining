@@ -12,7 +12,7 @@ Data Mining Course - Spring 2021
 ## Contributors
 
 -  [Kamyab abedi](https://github.com/Kamyababedi)
--  [Ehsan Sajadi](https://github.com/ehsansajad)
+-  [Ehsan Sajadi](https://github.com/ehsansajadi)
 -  [Kian Jalilian](https://github.com/kianjalilian)
 
 ## License
