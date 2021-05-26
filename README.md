@@ -1,5 +1,5 @@
 # Data Mining
-Data Mining Course - Spring 2021 
+• Data mining course, Dr. Alireza Talebpoor, Shahid Beheshti University.
 
 #### HW 
 - [PCA](https://github.com/ehsansajadi/Data-Mining/tree/main/HW/pca)
